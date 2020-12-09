@@ -1,7 +1,7 @@
 // The package name to install under. 
 name=
 // The path to install into, from the working directory.
-directory=Fonts/
+directory=
 // If true, files will be installed directly into the directory
 extract_in_directory=true
 // collapse top level folders
